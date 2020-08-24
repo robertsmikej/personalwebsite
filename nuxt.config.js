@@ -29,6 +29,7 @@ export default {
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;400&display=swap"},
+      { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;300&display=swap"},
     ]
   },
   /*
