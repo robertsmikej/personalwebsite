@@ -1,0 +1,39 @@
+{
+    "page_name": "index",
+    "link" : {
+        "name": "Home",
+        "url": "/"
+    },
+    "status": true,
+    "hero": {
+        "background_image": "imgs/backgrounds/redfish-lake-stanley-idaho-2000px.jpg",
+        "sub_header": "",
+        "header": "Mike Roberts",
+        "button_text": "Reach Out",
+        "sub_image": ""
+    },
+    "sections": {
+        "about": {
+            "header": "About Me",
+            "status": true,
+            "section_text": {
+                "html": "<p>Every company and individual should strive to put their best foot forward when building a website or a brand; it should be one that engages, benefits, and ultimately converts a lifelong customer, or convinces a user that a site is an authority in its arena. I strive to understand the motivation behind an individual or group's behavior, and to create, and optimize impactful experiences to help websites better align with these motivations.</p><p>As a developer, I see my role as comprised of creating code that aligns to industry standards, while still utilizing and learning the newer technologies that have allowed the internet to grow and thrive at the amazing pace it has. Whether it be internal company tools to make the lives of employees easier, or widgets, pages and plugins to make consumers excited to use a website, I love (and spend way too much personal time) making tools that 'just work'.</p><p>Scroll on down to see some examples of my work, my ideas, my passions, and probably some terrible humor.</p>"
+            },
+            "link" : {
+                "name": "About Me",
+                "url": "#about_me"
+            }
+        },
+        "contact": {
+            "header": "Contact Me",
+            "status": true,
+            "section_text": {
+                "html": "<h4>Take a moment and say hello!</h4><h4>I'd love to hear your thoughts, questions, and what you ended up doing when you grew up.</h4>"
+            },
+            "link" : {
+                "name": "Contact Me",
+                "url": "#contact_me"
+            }
+        }
+    }
+}

@@ -1,0 +1,5 @@
+.finishline__initial {
+    transition: max-width 2s;
+    transition-timing-function: ease-out;
+    transition-delay: 0s;
+}

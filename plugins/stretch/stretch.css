@@ -1,0 +1,50 @@
+/*
+.stretch__initial {
+    animation-direction: normal;
+    animation-fill-mode: forwards;
+    animation-duration: 1.6s;
+    
+}
+.res__timeline__year__cell:nth-of-type(even) .stretch__initial {
+    animation-name: StretchLeft;
+}
+.res__timeline__year__cell:nth-of-type(odd) .stretch__initial {
+    animation-name: StretchRight;
+}
+@keyframes StretchLeft {
+    0% {
+        left: 0px;
+        width: 100%;
+    }
+    100% {
+        width: 60px;
+        left: 50%;
+        transform: translate(-50%);
+    }
+}
+@keyframes StretchRight {
+    0% {
+        right: 0px;
+        width: 100%;
+    }
+    100% {
+        width: 60px;
+        right: 50%;
+        transform: translate(50%);
+    }
+}
+*/
+/* ----------------------------  MEDIA QUERY ------------------------------ */
+/*
+@media screen and (max-width:1100px) {
+    @keyframes Stretch1 {
+        0% {
+            width: 70%;
+            left: 100%;
+        }
+        100% {
+            width: 60px;
+            left: -10px;
+        }
+    }
+}*/

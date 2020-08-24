@@ -1,0 +1,16 @@
+{
+    "title": "Main Nav",
+    "status": true,
+    "nav_items": [
+        {
+            "title": "About Me",
+            "status": true,
+            "link": "#about_me"
+        },
+        {
+            "title": "Let's Talk",
+            "status": true,
+            "link": "#contact"
+        }
+    ]
+}

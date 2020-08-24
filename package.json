@@ -1,0 +1,21 @@
+{
+  "name": "personalwebsite",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.1",
+    "@nuxtjs/google-analytics": "^2.4.0",
+    "@nuxtjs/gtm": "^2.3.2",
+    "@nuxtjs/markdownit": "^1.2.10",
+    "@nuxtjs/sitemap": "^2.4.0",
+    "axios": "^0.20.0",
+    "nuxt": "^2.14.0"
+  },
+  "devDependencies": {}
+}
